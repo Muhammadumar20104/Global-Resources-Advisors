@@ -1,0 +1,48 @@
+export const clientAccountData = [
+    {
+      clientCompanyName: 'Tech Innovators Inc',
+      adCompanyName: 'AdMaster',
+      name: 'Alice Johnson',
+      phone: '555-1234',
+      email: 'alice.johnson@admaster.com',
+      status: 'Active',
+      notes: 'Ongoing campaign for new product launch.',
+    },
+    {
+      clientCompanyName: 'Green Solutions Ltd',
+      adCompanyName: 'PromoWave',
+      name: 'Bob Smith',
+      phone: '555-5678',
+      email: 'bob.smith@promowave.com',
+      status: 'Pending',
+      notes: 'Proposal submitted, awaiting feedback.',
+    },
+    {
+      clientCompanyName: 'Global Enterprises',
+      adCompanyName: 'AdPro',
+      name: 'Charlie Brown',
+      phone: '555-8765',
+      email: 'charlie.brown@adpro.com',
+      status: 'Completed',
+      notes: 'Campaign concluded with positive results.',
+    },
+    {
+      clientCompanyName: 'NextGen Tech',
+      adCompanyName: 'AdStar',
+      name: 'Diana Miller',
+      phone: '555-4321',
+      email: 'diana.miller@adstar.com',
+      status: 'In Progress',
+      notes: 'Current campaign in the optimization phase.',
+    },
+    {
+      clientCompanyName: 'Eco Friendly Products',
+      adCompanyName: 'AdWorks',
+      name: 'Evan Davis',
+      phone: '555-3456',
+      email: 'evan.davis@adworks.com',
+      status: 'Cancelled',
+      notes: 'Campaign cancelled due to budget constraints.',
+    },
+  ];
+  

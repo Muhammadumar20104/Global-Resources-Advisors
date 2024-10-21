@@ -1,0 +1,36 @@
+export const interactionData = [
+    {
+        slug: '1',
+        clientCompanyName: 'Wade Warren',
+        date: '2024-08-15',
+        graRepresentative: 'Jane Doe',
+        companyInteractedWith: 'MCA',
+        contactInteractedWith: 'John Smith',
+        interactionMedia: 'Email',
+        notes: 'Discussed potential funding options.',
+        attachments: ['funding_plan.pdf', 'company_profile.pdf'],
+    },
+
+    {
+        slug: '2',
+        clientCompanyName: 'Leslie Alexander',
+        date: '2024-08-16',
+        graRepresentative: 'Emily Davis',
+        companyInteractedWith: 'Client',
+        contactInteractedWith: 'Sarah Johnson',
+        interactionMedia: 'Phone Call',
+        notes: 'Follow-up on contract negotiations.',
+        attachments: ['contract_draft.docx'],
+    },
+    {
+        slug: '3',
+        clientCompanyName: 'Guy Hawkins',
+        date: '2024-08-17',
+        graRepresentative: 'Michael Brown',
+        companyInteractedWith: '3rd Party',
+        contactInteractedWith: 'Alice Lee',
+        interactionMedia: 'Video Conference',
+        notes: 'Reviewed investment strategy and goals.',
+        attachments: ['investment_strategy.pptx', 'meeting_notes.docx'],
+    },
+];
